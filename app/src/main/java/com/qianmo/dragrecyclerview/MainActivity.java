@@ -22,6 +22,7 @@ import static com.qianmo.dragrecyclerview.R.id.recyclerView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //注释2020
     private Context mContext = MainActivity.this;
     private SwipeRecyclerView mRecyclerView;
 
